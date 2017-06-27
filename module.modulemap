@@ -1,0 +1,5 @@
+module CTriangle [system] {
+	header "/usr/local/include/triangle.h"
+	link "triangle"
+	export *
+}
